@@ -1,0 +1,9 @@
+# Claude Code local settings (user-specific permissions)
+.claude/settings.local.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# COE output files (these are project-specific, not part of the skill)
+coes/
