@@ -7,3 +7,6 @@ Thumbs.db
 
 # COE output files (these are project-specific, not part of the skill)
 coes/
+
+# Local TODO tracking
+todo.md
